@@ -36,5 +36,6 @@ DataCamp — Data Manipulation with pandas (2025)
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/marta-narozhnyak-050020178/
-Email: vovkmartavovk@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marta-narozhnyak-050020178/
+
+- Email: vovkmartavovk@gmail.com
