@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Marta — a data analyst.
+## Hi there 👋 I'm Marta, and I'm a Data Analyst.
 
 Two mottos: SQL-first, dashboard-driven. Five years working with operational data at large-scale travel and media platforms, where I learned to catch broken data before it shows up in the team's KPIs and OKRs.
 
