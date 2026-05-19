@@ -8,10 +8,10 @@ I build end-to-end analytical projects from raw data to dashboard: pulling data,
 
 ## Stack
 
-SQL: PostgreSQL, BigQuery, Snowflake
-Python: pandas, SQLAlchemy, matplotlib (Jupyter)
-Visualization: Tableau (Public + Desktop)
-Other: Excel (Pivot Tables, Power Query, VBA), DBeaver, pgAdmin, Metabase
+- **SQL:** PostgreSQL, BigQuery, Snowflake
+- **Python:** pandas, SQLAlchemy, matplotlib (Jupyter)
+- **Visualization:** Tableau (Public + Desktop)
+- **Other:** Excel (Pivot Tables, Power Query, VBA), DBeaver, pgAdmin, Metabase
 
 ## Selected projects
 
@@ -36,6 +36,5 @@ Most recently five years at Intellias on the Omio platform, analyzing global tra
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/marta-narozhnyak-050020178/
-
-- Email: vovkmartavovk@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/marta-narozhnyak-050020178)
+- vovkmartavovk@gmail.com
