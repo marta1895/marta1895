@@ -28,11 +28,11 @@ Most recently five years at Intellias on the Omio platform, analyzing global tra
 
 ## Certifications
 
-DataCamp — Associate Data Analyst (2026)
-DataCamp — SQL Associate (2025)
-DataCamp — Introduction to Statistics (2025)
-DataCamp — Introduction to Snowflake (2025)
-DataCamp — Data Manipulation with pandas (2025)
+- DataCamp — Associate Data Analyst (2026)
+- DataCamp — SQL Associate (2025)
+- DataCamp — Introduction to Statistics (2025)
+- DataCamp — Introduction to Snowflake (2025)
+- DataCamp — Data Manipulation with pandas (2025)
 
 ## Contact
 
