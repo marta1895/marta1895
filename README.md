@@ -1,16 +1,16 @@
-## Hi there 👋 I'm Marta, and I'm a Data Analyst.
+## Hi there 👋 I'm Marta.
 
-Two mottos: SQL-first, dashboard-driven. Five years working with operational data at large-scale travel and media platforms, where I learned to catch broken data before it shows up in the team's KPIs and OKRs.
+Data Operations Analyst with 4+ years in production data quality — now building end-to-end analytics projects. My motto: SQL-first, dashboard-driven. Years of catching broken data before it hits the team's KPIs taught me the skill most analysts skip: never trust the data until you've checked it.
 
 ## What I work on
 
-I build end-to-end analytical projects from raw data to dashboard: pulling data, cleaning it in Python, querying it in PostgreSQL, Snowflake, and BigQuery, and shipping the answer in Tableau. The goal isn't to repeat headline metrics; it's to find where the business is actually leaking value and what can be done about it.
+I build analytical projects from raw data to dashboard: pulling data, cleaning it in Python, querying it in PostgreSQL, Snowflake, and BigQuery, and shipping the answer in Tableau. The goal isn't to repeat headline metrics — it's to find where the business is actually leaking value and what can be done about it.
 
 ## Stack
 
 - **SQL:** PostgreSQL, BigQuery, Snowflake
 - **Python:** pandas, SQLAlchemy, matplotlib (Jupyter)
-- **Visualization:** Tableau (Public + Desktop)
+- **Visualization:** Tableau (Public + Desktop), Google Spreadsheets
 - **Other:** Excel (Pivot Tables, Power Query, VBA), DBeaver, pgAdmin, Metabase
 
 ## Selected projects
@@ -24,7 +24,7 @@ I build end-to-end analytical projects from raw data to dashboard: pulling data,
   
 ## Background
 
-Most recently five years at Intellias on the Omio platform, analyzing global transportation station data from 800+ providers, improving Station Data Quality metrics from 75% to 90% through systematic root-cause analysis, and querying large datasets in BigQuery to surface gaps before they became customer-reported issues. Before that, ongoing part-time data quality work for EzyInsights, a real-time news platform aggregating thousands of publisher sources.
+4+ years at Intellias on the Omio travel platform, where I grew from Data Operator to Data Operations Analyst: validating transportation data from 800+ providers, improving the Station Data Quality metric from 75% to 90% through systematic root-cause analysis, and querying large BigQuery datasets to surface gaps before they became customer-reported issues. Since 2020, ongoing part-time data quality work at EzyInsights, a real-time news platform aggregating thousands of publisher sources.
 
 ## Certifications
 
