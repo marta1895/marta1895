@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Marta.
 
-Data Operations Analyst with 4+ years in production data quality — now building end-to-end analytics projects. My motto: SQL-first, dashboard-driven. Years of catching broken data before it hits the team's KPIs taught me the skill most analysts skip: never trust the data until you've checked it.
+Data Operations Analyst with 6+ years in production data quality — now building end-to-end analytics projects. Years of catching broken data before it hits the team's KPIs taught me the skill most analysts skip: never trust the data until you've checked it.
 
 ## What I work on
 
